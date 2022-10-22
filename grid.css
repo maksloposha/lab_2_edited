@@ -45,7 +45,7 @@
 #left{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 410px;
+    grid-template-rows: 80%;
     grid-column-gap: 4%;
 }
 #right-form{
